@@ -46,3 +46,5 @@
    */
   // "services": [{ "binding": "MY_SERVICE", "service": "my-service" }]
 }
+// also change deploy
+// go project setting find compatibality flags and set nodejs_compat
